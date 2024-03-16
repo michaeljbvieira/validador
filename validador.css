@@ -1,0 +1,190 @@
+ .u-section-1 {
+  background-image: url("images/Capturadetela2024-03-16112847.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 482px;
+  height: 106px;
+  margin: 147px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 253px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 190px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 89px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 75px;
+  }
+} .u-section-2 {
+  background-image: url("images/Capturadetela2024-03-16112921.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 564px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: Poppins;
+  font-weight: 700;
+  margin: 67px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 459px;
+  height: 300px;
+  margin: 67px auto 0;
+}
+
+.u-section-2 .u-image-2 {
+  object-position: 0% 47.63%;
+  width: 59px;
+  height: 59px;
+  background-image: url("images/download1.png");
+  background-position: 50% 50%;
+  margin: -347px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 664px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 269px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 702px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 307px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 499px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 222px;
+    margin-top: 73px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: -269px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 619px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 60px auto 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 39px 0 60px;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 641px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 410px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 491px;
+  height: 300px;
+  margin: 55px auto 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 318px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 340px;
+    height: 208px;
+  }
+} .u-section-5 {
+  background-image: url("images/Capturadetela2024-03-16112921.png");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-5 .u-image-1 {
+  width: 250px;
+  height: 54px;
+  margin: 173px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 253px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 190px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 287px;
+  }
+
+  .u-section-5 .u-image-1 {
+    margin-top: 108px;
+  }
+}
